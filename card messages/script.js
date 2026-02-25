@@ -43,7 +43,7 @@ yesBtn.style.transition = "transform 0.3s ease";
 
 //yes chosen
 yesBtn.addEventListener("click", () => {
-    title.textContent = "Happy Birthday❤️!";
+    title.textContent = "Happy Birthday Miriam❤️!";
 
     catImg.src = "catSad.gif";
 
